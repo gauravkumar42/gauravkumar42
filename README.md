@@ -40,30 +40,20 @@
 
 ### 🌟 Featured Projects
 
-<p>
-  <a href="https://github.com/gauravkumar42/BudgetWise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkumar42&repo=BudgetWise&theme=default" />
-  </a>
-  <a href="https://github.com/gauravkumar42/gauravkumar42.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkumar42&repo=gauravkumar42.github.io&theme=default" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/gauravkumar42/ripple">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkumar42&repo=ripple&theme=default" />
-  </a>
-  <a href="https://github.com/gauravkumar42/simon-memory-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkumar42&repo=simon-memory-game&theme=default" />
-  </a>
-</p>
+| Project | Description |
+|---|---|
+| 🔗 [BudgetWise](https://github.com/gauravkumar42/BudgetWise) | AI-driven personal finance tracker & budget advisor — MERN stack |
+| 🔗 [Personal Portfolio](https://github.com/gauravkumar42/gauravkumar42.github.io) | My portfolio site — live at [gauravkumar42.me](https://gauravkumar42.me) |
+| 🔗 [Ripple](https://github.com/gauravkumar42/ripple) | Web app built with EJS, clean server-rendered UI |
+| 🔗 [Simon Memory Game](https://github.com/gauravkumar42/simon-memory-game) | Interactive browser game in vanilla JavaScript |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravkumar42&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkumar42&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gauravkumar42&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=gauravkumar42&hide_border=true" width="48%" />
 </p>
 
 <p align="center">

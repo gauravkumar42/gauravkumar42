@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Gaurav, an Information Technology graduate and <b>Frontend Developer</b> based in <img src="https://cdn-icons-png.flaticon.com/512/197/197628.png" width="13"/> <b>Ghaziabad, Uttar Pradesh, India</b>.</p>
+<p>Welcome to my page! </br> I'm Gaurav, an Information Technology graduate and <b>Frontend Developer</b> based in <b>Ghaziabad, Uttar Pradesh, India</b>.</p>
 
 <h3>Things I code with</h3>
 <p>

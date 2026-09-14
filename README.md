@@ -15,6 +15,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="REST APIs" src="https://img.shields.io/badge/-REST_APIs-005571?style=flat-square" />
+  <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />

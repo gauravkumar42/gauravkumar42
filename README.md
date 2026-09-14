@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Gaurav!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Gaurav!</h1>
 
 <p>
 I'm a B.Tech IT graduate from <img src="https://cdn-icons-png.flaticon.com/512/197/197628.png" width="13"/> <b>India</b>, passionate about building responsive and user-friendly web applications with <b>React.js, JavaScript, and REST APIs</b>. Currently seeking <b>Frontend / Full Stack Developer</b> opportunities to build, learn, and grow.

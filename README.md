@@ -33,6 +33,3 @@
   <a href="https://gauravkumar42.me" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:gauravkumar95692@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-------------
-<p align="center"><i>Thanks for stopping by ⭐ — feel free to explore my repos and reach out if you'd like to collaborate!</i></p>

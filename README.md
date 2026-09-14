@@ -1,61 +1,59 @@
+<h1 align="center">Hi there, I'm Gaurav Kumar 👋</h1>
+
+<h3 align="center">Information Technology Graduate | Frontend Developer | React.js Enthusiast</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Gaurav%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=React.js%20Frontend%20Developer&descAlignY=55&descSize=20" alt="banner" />
-</p>
-
-### 📫 Reach Me:
-
-<p>
-  <a href="https://www.linkedin.com/in/gauravkumar42/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" />
-  </a>
-  <a href="https://github.com/gauravkumar42" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="40" />
-  </a>
-  <a href="mailto:gauravkumar95692@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" />
-  </a>
-  <a href="https://gauravkumar42.me" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" />
-  </a>
-  <a href="https://drive.google.com/file/d/1Tph9JeBYURkgNhTBZqZpYOVcuyFEeAwH/view?usp=drive_link" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/resume.png" width="40" />
-  </a>
-</p>
-
-### 👋 Hi there
-
-- 💻 Recent **B.Tech IT** graduate, actively looking for **React.js Frontend Developer** roles
-- ⚛️ Building projects with **React.js**, REST APIs, and the MERN stack
-- 🧠 Currently building **BudgetWise** — an AI-driven expense tracker & budget advisor
-- 🌐 Check out my portfolio at [gauravkumar42.me](https://gauravkumar42.me)
-- 🤝 Open to collaborations and frontend developer opportunities — let's connect!
-
-### 🚀 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql" />
+  <a href="https://gauravkumar42.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gauravkumar42" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🌟 Featured Projects
+### 🚀 About Me
 
-| Project | Description |
-|---|---|
-| 🔗 [BudgetWise](https://github.com/gauravkumar42/BudgetWise) | AI-driven personal finance tracker & budget advisor — MERN stack |
-| 🔗 [Personal Portfolio](https://github.com/gauravkumar42/gauravkumar42.github.io) | My portfolio site — live at [gauravkumar42.me](https://gauravkumar42.me) |
-| 🔗 [Ripple](https://github.com/gauravkumar42/ripple) | Web app built with EJS, clean server-rendered UI |
-| 🔗 [Simon Memory Game](https://github.com/gauravkumar42/simon-memory-game) | Interactive browser game in vanilla JavaScript |
+- 🎓 Information Technology graduate with hands-on experience building responsive, user-friendly web applications
+- 💻 Skilled in **React.js, JavaScript, HTML, CSS, and REST APIs**
+- 🧠 Strong problem-solving mindset with a passion for building modern, efficient, and engaging web experiences
+- 🌱 Currently sharpening my frontend and full-stack development skills
+- ⚡ Fun fact: I love turning ideas into clean, functional UI
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gauravkumar42&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=gauravkumar42&hide_border=true" width="48%" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravkumar42&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumar42&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkumar42&theme=radical&hide_border=true" />
 </p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://gauravkumar42.me" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/gauravkumar42" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:gauravkumar95692@gmail.com" target="_blank">📧 Email</a>
+</p>
+
+<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate.</i></p>

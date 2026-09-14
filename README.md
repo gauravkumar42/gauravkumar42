@@ -25,14 +25,6 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-<h3>📊 GitHub Stats</h3>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravkumar42&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumar42&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gauravkumar42&theme=radical&hide_border=true" />
-</p>
 
 <h3>Where to find me</h3>
 <p>

@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Gaurav, an Information Technology graduate and <b>Frontend Developer</b> based in <b>Ghaziabad, Uttar Pradesh, India</b>.</p>
+<p>Welcome to my page! </br> I'm Gaurav, a recent B.Tech graduate in Information Technology, based in <img src="https://cdn-icons-png.flaticon.com/512/197/197628.png" width="13"/> <b>Ghaziabad, Uttar Pradesh, India</b>. I build responsive, user-friendly web applications with <b>React.js, JavaScript, and REST APIs</b>, and I'm actively looking for <b>Frontend / Full Stack Developer</b> roles where I can contribute and keep growing.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -25,12 +25,22 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravkumar42&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumar42&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gauravkumar42&theme=radical&hide_border=true" />
+</p>
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://gauravkumar42.me" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/gauravkumar42" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gauravkumar42" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://gauravkumar42.me" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:gauravkumar95692@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+------------
+<p align="center"><i>Thanks for stopping by ⭐ — feel free to explore my repos and reach out if you'd like to collaborate!</i></p>

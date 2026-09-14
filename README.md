@@ -1,7 +1,7 @@
 # 👋 Hey! Nice to see you.
 
 Welcome to my page!
-I'm Gaurav, an Information Technology graduate and **Frontend Developer** from 🇮🇳 Ghaziabad, India, passionate about building modern, responsive, and user-friendly web applications.
+I'm Gaurav, an Information Technology graduate and **Frontend Developer** from Ghaziabad, Uttar Pradesh, India, passionate about building modern, responsive, and user-friendly web applications.
 
 ### Things I code with
 
